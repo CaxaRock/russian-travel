@@ -1,0 +1,21 @@
+.place{
+    margin-bottom: 0px;
+}
+
+.place:not(:last-of-type){
+    margin-bottom: 80px;
+}
+
+/*768*/
+@media screen and (max-width: 768px) {
+    .place:not(:last-of-type){
+        margin-bottom: 73px;
+    }
+}
+
+/*320*/
+@media screen and (max-width: 320px) {
+    .place:not(:last-of-type){
+        margin-bottom: 50px;
+    }
+}
