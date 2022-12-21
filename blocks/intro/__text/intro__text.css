@@ -19,6 +19,14 @@
     }
 }
 
+/*730*/
+@media screen and (max-width: 730px) {
+    .intro__text{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+}
+
 /*320*/
 @media screen and (max-width: 320px) {
     .intro__text{

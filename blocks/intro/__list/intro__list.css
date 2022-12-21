@@ -18,3 +18,11 @@
         max-width: 720px;
     }
 }
+
+/*730*/
+@media screen and (max-width: 730px) {
+    .intro__list{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+}

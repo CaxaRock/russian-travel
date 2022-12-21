@@ -17,4 +17,10 @@
     }
  }
 
-
+/*730*/
+@media screen and (max-width: 730px) {
+    .footer__link-list{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+}
