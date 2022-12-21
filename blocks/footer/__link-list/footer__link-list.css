@@ -8,12 +8,13 @@
     list-style: none;
     padding-bottom: 24px;
 }
-
-/*320*/
-@media screen and (max-width: 320px) {
+/*480*/
+@media screen and (max-width: 480px) {
     .footer__link-list{
        gap: 32px;
        flex-direction: column;
        padding-bottom: 48px;
     }
  }
+
+

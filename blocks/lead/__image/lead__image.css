@@ -1,14 +1,14 @@
 .lead__image{
-    max-width: 984px;
-    height: auto;
-    padding-top: 64px;
+   margin: 0;
+   padding: 0;
+   width: 100%;
+   height: auto;
+   padding-top: 56px;
 }
 
 /*1024*/
 @media screen and (max-width: 1024px){
     .lead__image{
-        max-width: 928px;
-        padding-top: 56px;
     }
     }
 /*768*/

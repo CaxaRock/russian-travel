@@ -9,14 +9,22 @@
 /*1024*/
 @media screen and (max-width: 1024px) {
     .place__image{
-        max-width: 440px;
+        max-width: 100%;
+        
     }
 }
 
 /*768*/
 @media screen and (max-width: 768px) {
     .place__image{
-        max-width: 340px;
+        max-width: 100%;
+    }
+}
+
+/*500*/
+@media screen and (max-width: 575px) {
+    .place__image{
+        max-width: 100%;
     }
 }
 
